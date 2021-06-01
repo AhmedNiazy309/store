@@ -1,0 +1,37 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/home/solia/Desktop/vue/learn nuxt/nuxt/secondprojectnuxt/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_5c3113e2"
+  },
+  {
+    "name": "admin-post-add",
+    "path": "/admin/post/add",
+    "component": "/home/solia/Desktop/vue/learn nuxt/nuxt/secondprojectnuxt/pages/admin/post/add.vue",
+    "chunkName": "pages/admin/post/add",
+    "_name": "_093323d2"
+  },
+  {
+    "name": "admin-post-id-edit",
+    "path": "/admin/post/:id?/edit",
+    "component": "/home/solia/Desktop/vue/learn nuxt/nuxt/secondprojectnuxt/pages/admin/post/_id/edit.vue",
+    "chunkName": "pages/admin/post/_id/edit",
+    "_name": "_1fe83a44"
+  },
+  {
+    "name": "post-id",
+    "path": "/post/:id?",
+    "component": "/home/solia/Desktop/vue/learn nuxt/nuxt/secondprojectnuxt/pages/post/_id.vue",
+    "chunkName": "pages/post/_id",
+    "_name": "_a5dc50aa"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/solia/Desktop/vue/learn nuxt/nuxt/secondprojectnuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a97326bc"
+  }
+]

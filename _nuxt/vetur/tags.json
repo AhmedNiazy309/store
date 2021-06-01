@@ -1,0 +1,32 @@
+{
+  "PostCard": {
+    "description": "Auto imported from components/post-card.vue"
+  },
+  "LazyPostCard": {
+    "description": "Auto imported from components/post-card.vue"
+  },
+  "PostForm": {
+    "description": "Auto imported from components/admin/post-form.vue"
+  },
+  "LazyPostForm": {
+    "description": "Auto imported from components/admin/post-form.vue"
+  },
+  "AppFooter": {
+    "description": "Auto imported from components/core/app-footer.vue"
+  },
+  "LazyAppFooter": {
+    "description": "Auto imported from components/core/app-footer.vue"
+  },
+  "AppHeader": {
+    "description": "Auto imported from components/core/app-header.vue"
+  },
+  "LazyAppHeader": {
+    "description": "Auto imported from components/core/app-header.vue"
+  },
+  "AppModal": {
+    "description": "Auto imported from components/shared/app-modal.vue"
+  },
+  "LazyAppModal": {
+    "description": "Auto imported from components/shared/app-modal.vue"
+  }
+}
